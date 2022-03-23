@@ -1,6 +1,6 @@
 ### Hello
 
-I'm am: Luisinho but you can all me Luis
+I'm am: Luisinho, but you can all me just Luis
 
 i am working with haxe but i maybe will work with C#, C++ and html5 in future
 
