@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello
+
+I'm am: Luisinho but you can all me Luis
+
+i am working with haxe but i maybe will work with C#, C++ and html5 in future
+
+my discord is: Luis com "S"#0404
+if my discord is not the same and i don't update here you can comment on my [repository](https://github.com/Luisinhi010/Luisinhi010) to update discord
+
 
 <!--
 **Luisinhi010/Luisinhi010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
