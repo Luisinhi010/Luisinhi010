@@ -8,6 +8,8 @@ my discord is: Luis com "S"#0404
 
 if my discord is not the same and i don't update here you can comment on my [repository](https://github.com/Luisinhi010/Luisinhi010) to update discord
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisinhi010&show_icons=true&theme=radical&count_private=true)
+
 
 <!--
 **Luisinhi010/Luisinhi010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
