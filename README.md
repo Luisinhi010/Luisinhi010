@@ -10,6 +10,8 @@ if my discord is not the same and i don't update here you can comment on my [rep
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisinhi010&show_icons=true&theme=radical&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisinhi010)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Luisinhi010/Luisinhi010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
