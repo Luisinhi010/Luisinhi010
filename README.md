@@ -10,8 +10,9 @@ if my discord is not the same and i don't update here you can comment on my [rep
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisinhi010&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayofthelor&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisinhi010&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- I Fucking Hate Myself.-->
 <!-- Amazing.-->
 
 <!--
