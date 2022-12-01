@@ -4,7 +4,7 @@ I'm am: Luisinho, but you can all me just Luis
 
 i am working with haxe but i maybe will work with C#, C++ and html5 in future
 
-my discord is: Luis com "S"#0404
+my discord is: Luis Com "S"#8534
 
 if my discord is not the same and i don't update here you can comment on my [repository](https://github.com/Luisinhi010/Luisinhi010) to update discord
 
