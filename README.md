@@ -3,7 +3,8 @@
 I'm am: Luisinho, but you can all me just Luis
 i'm 16 Years Old
 
-i am working with haxe but i maybe will work with C#, C++ and html5 in future
+i know haxe but i want learn C, C++ in future
+(already learning Java Script, html, python and C# in school)
 
 my discord is: Luis Com "S"#8534
 if my discord is not the same and i don't update here you can comment on my [repository](https://github.com/Luisinhi010/Luisinhi010) to update discord
