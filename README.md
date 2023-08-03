@@ -7,7 +7,6 @@ i know haxe but i want learn C, C++ in future
 (already learning Java Script, html, python and C# in school)
 
 my discord is: luis_claudio01
-if my discord is not the same and i don't update here you can comment on my [repository](https://github.com/Luisinhi010/Luisinhi010) to update discord
 
 <!--![Luisinhi010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisinhi010&show_icons=true&theme=dark&count_private=true)-->
 
