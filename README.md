@@ -1,3 +1,4 @@
+<div align="center">
 # Luísinho010: Aspiring Computer Scientist
 
 **Hello!** 
@@ -15,16 +16,15 @@ I'm Luís, a passionate 18-year-old aspiring computer scientist eager to make my
 
 **Looking Forward:**
 
-I'm always open to learning new things and collaborating with other developers. Let's build something amazing together! 
+I'm always open to learning new things.
 
-**Tech Stack:**
 
-<div style="display: flex; justify-content: center;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisinhi010&theme=transparent&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisinhi010&theme=transparent&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Luisinhi010&theme=transparent&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" height="200" alt="Anurag's GitHub stats"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisinhi010&theme=transparent&layout=compact" height="200" alt="Top Langs"  />
+  </div>
 </div>
+
 
 <!-- Amazing.-->
 
