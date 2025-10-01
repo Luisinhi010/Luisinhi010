@@ -1,23 +1,16 @@
-# Luísinho010: Aspiring Computer Scientist
+# Luis Claudio Prati De Campos: Estudante da tecnologia
 
 <div align="center">
 
-**Hello!** 
+**Ola!** 
 
-I'm Luís, a passionate 18-year-old aspiring computer scientist eager to make my mark in the tech world. Currently finishing high school, I'm honing my skills in various programming languages, including Haxe, Java, Python, Lua, C, and C++.
+Eu Sou Luis, alguem apaixonado pela a area da informação, ansioso em fazer um marco na area da tecnologia, terminei o ensino medio junto com curso tecnico de Análise e Desenvolvimento de Sistemas em 2025, tendo conhecimento em Haxe, C# e C, querendo aprender Java, Python, Lua, C++.
 
-**My Goals:**
+* **Discord:** Pode Me contactar pelo o discord `luis_claudio01`.
 
-* **Master C and C++:** While I'm already familiar with Haxe, I'm excited to delve deeper into the world of C and C++ for their versatility and performance in computer science applications.
-* **Build Real-World Projects:** I'm looking to apply my knowledge to create meaningful projects that solve problems and make a difference.
+**De olho no futuro:**
 
-**Let's Connect:**
-
-* **Discord:** Feel free to reach out on Discord at `luis_claudio01`.
-
-**Looking Forward:**
-
-I'm always open to learning new things.
+Eu estou aberto em aprender coisas novas
 
 
   <div style="display: flex; justify-content: center;">
