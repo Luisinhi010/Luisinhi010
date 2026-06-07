@@ -1,38 +1,38 @@
-# Luis Claudio Prati De Campos: Estudante da tecnologia
+# Luis Claudio — Dev & Builder
 
-<div align="center">
+> 19 y/o from Brazil. I build things I'd actually want to use.
 
-**Ola!** 
+---
 
-Eu Sou Luis, alguem apaixonado pela a area da informação, ansioso em fazer um marco na area da tecnologia, terminei o ensino medio junto com curso tecnico de Análise e Desenvolvimento de Sistemas em 2025, tendo conhecimento em Haxe, C# e C, querendo aprender Java, Python, Lua, C++.
+### What I'm working on
 
-* **Discord:** Pode Me contactar pelo o discord `luis_claudio01`.
+- 🎵 **[Terror Radius System](https://terror-radius.vercel.app)** — dynamic layered music player for DBD & Forsaken. React + TypeScript + Tauri. [→ repo](https://github.com/Luisinhi010/terrorradius)
+- 🎮 **[Rhythm Game](https://github.com/Luisinhi010/rhythm-haxeflixel-game)** — HaxeFlixel rhythm engine with a custom Conductor system.
+- 🖼️ **[Image Manipulator](https://github.com/Luisinhi010/Image-Manipulator)** — image processing tool.
 
-**De olho no futuro:**
+---
 
-Eu estou aberto em aprender coisas novas
+### Stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
+![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=flat&logo=haxe&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Luisinhi010&theme=transparent&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats" height="200" alt="Anurag's GitHub stats"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisinhi010&theme=transparent&layout=compact" height="200" alt="Top Langs"  />
-  </div>
-</div>
+---
 
+### Background
 
-<!-- Amazing.-->
+- 5 years in digital marketing & tech support at Visualmodo
+- Technical degree in Systems Analysis and Development (2024)
+- Advanced English
+- Currently learning: SQL, Node.js, backend
 
-<!--
-**Luisinhi010/Luisinhi010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: `luis_claudio01`  
+Email: luiscpc3@gmail.com
