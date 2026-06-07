@@ -6,7 +6,7 @@
 
 ### What I'm working on
 
-- 🎵 **[Terror Radius System](https://terror-radius.vercel.app)** — dynamic layered music player for DBD & Forsaken. React + TypeScript + Tauri. [→ repo](https://github.com/Luisinhi010/terrorradius)
+- 🎵 **[Terror Radius System](https://terror-radius.vercel.app)** — dynamic layered music player for DBD & Forsaken. React + TypeScript + Tauri. [→ repo](https://github.com/Luisinhi010/Terror-Radius)
 - 🎮 **[Rhythm Game](https://github.com/Luisinhi010/rhythm-haxeflixel-game)** — HaxeFlixel rhythm engine with a custom Conductor system.
 - 🖼️ **[Image Manipulator](https://github.com/Luisinhi010/Image-Manipulator)** — image processing tool.
 
